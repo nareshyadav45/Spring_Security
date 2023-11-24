@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.security.jwt.sec.config.JwtUtile&apos; to &apos;JwtUtil&apos;&#x0D;&#x0A;- Original project: &apos;SpringSecurityJWT&apos;&#x0D;&#x0A;- Original element: &apos;com.security.jwt.sec.config.JwtUtile&apos;&#x0D;&#x0A;- Renamed element: &apos;com.security.jwt.sec.config.JwtUtil&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;JwtUtile&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.security.jwt.sec.config{JwtUtile.java[JwtUtile" matchStrategy="1" name="JwtUtil" qualified="false" references="true" similarDeclarations="false" stamp="1692248350282" textual="false" version="1.0"/>
+</session>
